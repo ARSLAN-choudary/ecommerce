@@ -1,0 +1,77 @@
+body{
+  font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+}
+ul li a{
+  text-decoration: none;
+  color: black;
+}
+ul hr{
+  margin-left: 5px;
+  margin-top: -1rem;
+  background-color:red;
+  width: 80%;
+  height: 3px;
+  border: none;
+  border-radius: 10px;
+  
+}
+.hero{
+  margin: 0%;
+  padding: 0%;
+  background: rgb(195,34,129);
+  background: linear-gradient(190deg, rgba(195,34,129,0.40397408963585435) 0%, rgba(253,45,249,0.09024859943977592) 100%);
+}
+hr{
+  width: 20vh;
+  opacity: 1.25;
+  border: 1.50px solid black;
+  position: relative;
+}
+.offers{
+  background: rgb(195,34,129);
+  background: linear-gradient(180deg, rgba(195,34,129,0.40397408963585435) 0%, rgba(244,209,244,0) 67%);
+}
+.input-group{
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Newsletter{
+  background: rgb(245, 68, 172);
+  background: linear-gradient(180deg, rgba(241, 75, 172, 0.404) 0%, rgba(244,209,244,0) 67%);
+}
+ul li{
+  list-style-type: none;
+  margin-inline: 5px;
+  cursor: pointer;
+}
+.icons{
+  margin-inline: 10px;
+  width: 30px;
+  cursor: pointer;
+}
+.hr{
+  width: auto;
+  margin-top: 30px;
+  
+}
+.form{
+  width: 50%;
+  background-color: aliceblue;
+  /* height: 25rem; */
+}
+.fs{
+  font-size: small;
+  font-style: italic;
+}
+.item{
+  cursor: pointer;
+}
+.img{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
